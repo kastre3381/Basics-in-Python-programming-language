@@ -1,3 +1,3 @@
-# Basics-in-Python-programming-language
+Elo
 
-jest tak
+https://youtu.be/IBNeCoxG1L8
